@@ -1,0 +1,25 @@
+Rishabh|RishiTheri@2000|Cooking|Household|2023-12-24|Cut potatoes and prepare a curry for lunch
+Rohith|Rohith@1990|Pens|Stationary|2024-01-15|Buy pens and other stationary for upcoming exams
+Ravikumar|Ravi19999|Repair TV|Technical|2024-01-07|Rectify the problem with the TV
+Shreya|Shreya23@1995|Painting|Art|2024-02-10|Create a vibrant landscape using acrylics
+Aryan|AryanGamer@2001|Gaming|Entertainment|2024-03-05|Complete level 7 of the new video game
+Priya|PriyaSingh@1988|Yoga|Fitness|2024-02-15|Practice yoga for 30 minutes in the morning
+Arjun|Arjun89@1990|Gardening|Outdoor|2024-03-20|Plant new flowers in the backyard
+Nisha|NishaDance@1998|Dancing|Performing Arts|2024-02-28|Choreograph a dance routine for the upcoming event
+Vikram|VikramTravels@1985|Travel|Adventure|2024-04-02|Plan a weekend getaway to the mountains
+Maya|MayaBookworm@1992|Reading|Hobbies|2024-02-12|Finish reading "The Great Gatsby"
+Sanjay|SanjayCoder@1993|Coding|Technology|2024-04-15|Complete coding assignment for the software project
+Ananya|AnanyaSinger@1987|Singing|Music|2024-03-10|Practice vocal exercises for an hour
+Karthik|KarthikChef@2002|Baking|Culinary|2024-04-05|Bake a chocolate cake from scratch
+Riya|RiyaFitness@1996|Running|Fitness|2024-02-20|Run 5 kilometers in the park
+Arnav|ArnavPhotography@1989|Photography|Art|2024-03-25|Capture a stunning sunset photograph
+Pooja|PoojaMeditates@1991|Meditation|Wellness|2024-02-08|Meditate for 15 minutes before bedtime
+Sameer|SameerSketches@2005|Drawing|Art|2024-04-10|Sketch a portrait of a friend
+Kavita|KavitaWrites@1986|Writing|Hobbies|2024-03-15|Start a short story and write the first chapter
+Rahul|RahulGym@1994|Weightlifting|Fitness|2024-02-18|Lift weights for strength training
+Meera|MeeraGuitar@1997|Playing Guitar|Music|2024-04-20|Learn a new song on the guitar
+Akshay|AkshayNature@2003|Bird Watching|Outdoor|2024-03-30|Identify and document five different bird species
+Sneha|SnehaCrafts@1984|Crafting|Hobbies|2024-02-25|Create handmade greeting cards for friends
+Anand|AnandVolunteer@1983|Volunteering|Community Service|2024-04-12|Participate in a local charity event
+Rohan|Token@2004|Bread|Provisions|2023-12-29|Buy bread, milk and butter for breakfast
+Rohan|Token@2004|Cricket|Entertainment|2024-01-08|Play cricket with friends on Monday
